@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
 * [linux的僵尸进程](http://www.devopser.org/articles/2019/06/04/1559617932598.html)
 * [jenkins发布预览微信小程序(windows_slave)](http://www.devopser.org/articles/2019/05/31/1559285817839.html)
 * [kubeadm部署和升级k8s集群](http://www.devopser.org/articles/2019/05/18/1558145104870.html)
