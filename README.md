@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [go实现斐波那契数列](http://www.devopser.org/articles/2019/06/16/1560658242103.html)
 * [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
 * [linux的僵尸进程](http://www.devopser.org/articles/2019/06/04/1559617932598.html)
 * [jenkins发布预览微信小程序(windows_slave)](http://www.devopser.org/articles/2019/05/31/1559285817839.html)
