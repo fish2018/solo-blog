@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [jenkins编译.net结合ansible操作windows进行发布](http://www.devopser.org/articles/2019/07/26/1564120107776.html)
 * [精简jdk基础镜像构建](http://www.devopser.org/articles/2019/07/05/1562311415579.html)
 * [go实现斐波那契数列](http://www.devopser.org/articles/2019/06/16/1560658242103.html)
 * [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
