@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [基于alpine构建nginx基础镜像](http://www.devopser.org/articles/2019/08/19/1566219885524.html)
 * [gitlab根据sonar扫描状态决定是否允许merge](http://www.devopser.org/articles/2019/08/06/1565067746414.html)
 * [jenkins编译.net结合ansible操作windows进行发布](http://www.devopser.org/articles/2019/07/26/1564120107776.html)
 * [精简jdk基础镜像构建](http://www.devopser.org/articles/2019/07/05/1562311415579.html)
@@ -29,11 +30,11 @@
 * [python开发prometheus的exporter](http://www.devopser.org/articles/2019/04/25/1556165075790.html)
 * [grafana企业微信报警webhook](http://www.devopser.org/articles/2019/04/24/1556064883572.html)
 * [利用二进制位运算实现权限控制](http://www.devopser.org/articles/2019/04/24/1556061973923.html)
-* [django实现全文检索](http://www.devopser.org/articles/2019/04/24/1556059669181.html)
 
 ### 热门
 
 * [运维体系建设-提纲](http://www.devopser.org/articles/2019/04/21/1555850522941.html)
+* [django实现全文检索](http://www.devopser.org/articles/2019/04/24/1556059669181.html)
 
 
 
