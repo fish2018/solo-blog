@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [go使用代理加速下载模块](http://www.devopser.org/articles/2019/08/23/1566573161661.html)
 * [部署helm](http://www.devopser.org/articles/2019/08/21/1566380090235.html)
 * [prometheus operator添加报警规则及通知方式](http://www.devopser.org/articles/2019/08/21/1566379859249.html)
 * [prometheus Operator添加自定义监控](http://www.devopser.org/articles/2019/08/21/1566379625905.html)
@@ -29,7 +30,6 @@
 * [http代理for Linux(docker镜像下载)](http://www.devopser.org/articles/2019/05/07/1557236887856.html)
 * [页面动态添加分类-模板-属性-值](http://www.devopser.org/articles/2019/05/02/1556764621087.html)
 * [根据checkbox勾选动态渲染表头](http://www.devopser.org/articles/2019/04/29/1556527529497.html)
-* [根据用户权限动态生成菜单路由](http://www.devopser.org/articles/2019/04/29/1556524856420.html)
 
 ### 热门
 
@@ -40,6 +40,7 @@
 * [运维体系建设-提纲](http://www.devopser.org/articles/2019/04/21/1555850522941.html)
 * [django实现全文检索](http://www.devopser.org/articles/2019/04/24/1556059669181.html)
 * [Npm私库Nexus部署](http://www.devopser.org/articles/2019/04/29/1556522434049.html)
+* [根据用户权限动态生成菜单路由](http://www.devopser.org/articles/2019/04/29/1556524856420.html)
 * [Jenkins的权限控制](http://www.devopser.org/articles/2019/04/29/1556521657416.html)
 * [Tree组件数据结构相互转换 flat <=> nested](http://www.devopser.org/articles/2019/04/29/1556524023536.html)
 * [flask项目部署](http://www.devopser.org/articles/2019/04/29/1556521137375.html)
