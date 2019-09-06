@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [支持多应用的pms统一权限管理系统](http://www.devopser.org/articles/2019/09/05/1567663209232.html)
 * [基于flask和vue的前后端整合开发模板](http://www.devopser.org/articles/2019/09/04/1567568399976.html)
 * [harbor镜像清理工具python和golang版本实现](http://www.devopser.org/articles/2019/09/04/1567560343455.html)
 * [go使用代理加速下载模块](http://www.devopser.org/articles/2019/08/23/1566573161661.html)
@@ -29,7 +30,6 @@
 * [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
 * [linux的僵尸进程](http://www.devopser.org/articles/2019/06/04/1559617932598.html)
 * [jenkins发布预览微信小程序(windows_slave)](http://www.devopser.org/articles/2019/05/31/1559285817839.html)
-* [http代理for Linux(docker镜像下载)](http://www.devopser.org/articles/2019/05/07/1557236887856.html)
 
 ### 热门
 
@@ -38,12 +38,13 @@
 * [python开发prometheus的exporter](http://www.devopser.org/articles/2019/04/25/1556165075790.html)
 * [利用二进制位运算实现权限控制](http://www.devopser.org/articles/2019/04/24/1556061973923.html)
 * [运维体系建设-提纲](http://www.devopser.org/articles/2019/04/21/1555850522941.html)
+* [http代理for Linux(docker镜像下载)](http://www.devopser.org/articles/2019/05/07/1557236887856.html)
 * [django实现全文检索](http://www.devopser.org/articles/2019/04/24/1556059669181.html)
 * [Npm私库Nexus部署](http://www.devopser.org/articles/2019/04/29/1556522434049.html)
 * [根据用户权限动态生成菜单路由](http://www.devopser.org/articles/2019/04/29/1556524856420.html)
 * [页面动态添加分类-模板-属性-值](http://www.devopser.org/articles/2019/05/02/1556764621087.html)
-* [Jenkins的权限控制](http://www.devopser.org/articles/2019/04/29/1556521657416.html)
 * [Tree组件数据结构相互转换 flat <=> nested](http://www.devopser.org/articles/2019/04/29/1556524023536.html)
+* [Jenkins的权限控制](http://www.devopser.org/articles/2019/04/29/1556521657416.html)
 * [flask项目部署](http://www.devopser.org/articles/2019/04/29/1556521137375.html)
 * [根据checkbox勾选动态渲染表头](http://www.devopser.org/articles/2019/04/29/1556527529497.html)
 
