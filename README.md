@@ -43,8 +43,8 @@
 * [Npm私库Nexus部署](http://www.devopser.org/articles/2019/04/29/1556522434049.html)
 * [根据用户权限动态生成菜单路由](http://www.devopser.org/articles/2019/04/29/1556524856420.html)
 * [页面动态添加分类-模板-属性-值](http://www.devopser.org/articles/2019/05/02/1556764621087.html)
-* [Jenkins的权限控制](http://www.devopser.org/articles/2019/04/29/1556521657416.html)
 * [Tree组件数据结构相互转换 flat <=> nested](http://www.devopser.org/articles/2019/04/29/1556524023536.html)
+* [Jenkins的权限控制](http://www.devopser.org/articles/2019/04/29/1556521657416.html)
 * [flask项目部署](http://www.devopser.org/articles/2019/04/29/1556521137375.html)
 * [根据checkbox勾选动态渲染表头](http://www.devopser.org/articles/2019/04/29/1556527529497.html)
 
