@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [k8s上使用statefulset方式部署eureka集群](http://www.devopser.org/articles/2019/10/24/1571897252380.html)
 * [开源PMS统一权限管理系统](http://www.devopser.org/articles/2019/09/05/1567663209232.html)
 * [基于flask和vue的前后端整合开发模板](http://www.devopser.org/articles/2019/09/04/1567568399976.html)
 * [harbor镜像清理工具python和golang版本实现](http://www.devopser.org/articles/2019/09/04/1567560343455.html)
@@ -29,7 +30,6 @@
 * [go实现斐波那契数列](http://www.devopser.org/articles/2019/06/16/1560658242103.html)
 * [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
 * [linux的僵尸进程](http://www.devopser.org/articles/2019/06/04/1559617932598.html)
-* [jenkins发布预览微信小程序(windows_slave)](http://www.devopser.org/articles/2019/05/31/1559285817839.html)
 
 ### 热门
 
@@ -38,6 +38,7 @@
 * [vue.js可拖拽的悬浮组件](http://www.devopser.org/articles/2019/04/26/1556265313871.html)
 * [python开发prometheus的exporter](http://www.devopser.org/articles/2019/04/25/1556165075790.html)
 * [利用二进制位运算实现权限控制](http://www.devopser.org/articles/2019/04/24/1556061973923.html)
+* [jenkins发布预览微信小程序(windows_slave)](http://www.devopser.org/articles/2019/05/31/1559285817839.html)
 * [运维体系建设-提纲](http://www.devopser.org/articles/2019/04/21/1555850522941.html)
 * [django实现全文检索](http://www.devopser.org/articles/2019/04/24/1556059669181.html)
 * [根据用户权限动态生成菜单路由](http://www.devopser.org/articles/2019/04/29/1556524856420.html)
