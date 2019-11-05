@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [使用kubebuilder自定义CRD资源和Controller](http://www.devopser.org/articles/2019/11/04/1572870267705.html)
 * [k8s上使用statefulset方式部署eureka集群](http://www.devopser.org/articles/2019/10/24/1571897252380.html)
 * [开源PMS统一权限管理系统](http://www.devopser.org/articles/2019/09/05/1567663209232.html)
 * [基于flask和vue的前后端整合开发模板](http://www.devopser.org/articles/2019/09/04/1567568399976.html)
@@ -29,7 +30,6 @@
 * [精简jdk基础镜像构建](http://www.devopser.org/articles/2019/07/05/1562311415579.html)
 * [go实现斐波那契数列](http://www.devopser.org/articles/2019/06/16/1560658242103.html)
 * [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
-* [linux的僵尸进程](http://www.devopser.org/articles/2019/06/04/1559617932598.html)
 
 ### 热门
 
@@ -43,6 +43,7 @@
 * [根据用户权限动态生成菜单路由](http://www.devopser.org/articles/2019/04/29/1556524856420.html)
 * [django实现全文检索](http://www.devopser.org/articles/2019/04/24/1556059669181.html)
 * [页面动态添加分类-模板-属性-值](http://www.devopser.org/articles/2019/05/02/1556764621087.html)
+* [linux的僵尸进程](http://www.devopser.org/articles/2019/06/04/1559617932598.html)
 * [http代理for Linux(docker镜像下载)](http://www.devopser.org/articles/2019/05/07/1557236887856.html)
 * [Npm私库Nexus部署](http://www.devopser.org/articles/2019/04/29/1556522434049.html)
 * [Tree组件数据结构相互转换 flat <=> nested](http://www.devopser.org/articles/2019/04/29/1556524023536.html)
