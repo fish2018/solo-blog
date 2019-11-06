@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [nginx常用配置转换nginx-ingress配置方式](http://www.devopser.org/articles/2019/11/06/1573006159751.html)
 * [使用kubebuilder自定义CRD资源和Controller](http://www.devopser.org/articles/2019/11/04/1572870267705.html)
 * [k8s上使用statefulset方式部署eureka集群](http://www.devopser.org/articles/2019/10/24/1571897252380.html)
 * [开源PMS统一权限管理系统](http://www.devopser.org/articles/2019/09/05/1567663209232.html)
@@ -29,13 +30,13 @@
 * [jenkins编译.net结合ansible操作windows进行发布](http://www.devopser.org/articles/2019/07/26/1564120107776.html)
 * [精简jdk基础镜像构建](http://www.devopser.org/articles/2019/07/05/1562311415579.html)
 * [go实现斐波那契数列](http://www.devopser.org/articles/2019/06/16/1560658242103.html)
-* [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
 
 ### 热门
 
 * [grafana企业微信报警webhook](http://www.devopser.org/articles/2019/04/24/1556064883572.html)
 * [根据checkbox勾选动态渲染表头](http://www.devopser.org/articles/2019/04/29/1556527529497.html)
 * [vue.js可拖拽的悬浮组件](http://www.devopser.org/articles/2019/04/26/1556265313871.html)
+* [阿里云监控自定义大盘自动切换](http://www.devopser.org/articles/2019/06/12/1560331622380.html)
 * [python开发prometheus的exporter](http://www.devopser.org/articles/2019/04/25/1556165075790.html)
 * [利用二进制位运算实现权限控制](http://www.devopser.org/articles/2019/04/24/1556061973923.html)
 * [jenkins发布预览微信小程序(windows_slave)](http://www.devopser.org/articles/2019/05/31/1559285817839.html)
